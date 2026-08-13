@@ -41,7 +41,7 @@ Na tela **Criar Novo Mundo**, na aba **Avançado**, é possível transformar o m
 
 Esse é o ponto de partida ideal para aulas de construção, já que gera um terreno totalmente plano, sem relevo, árvores ou estruturas naturais atrapalhando os alunos.
 
-![Como criar um mundo plano](./Como_criar_um_mundo_plano.gif)
+![Como criar um mundo plano](./assets/Como_criar_um_mundo_plano.gif)
 
 ---
 
