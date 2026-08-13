@@ -4,8 +4,6 @@ Este guia foi criado para a equipe de TI da escola, com o objetivo de explicar d
 
 Cada seção abaixo é ilustrada com um GIF demonstrativo. Se você já conhece o funcionamento básico do Minecraft Education, pode pular direto para a seção final, onde está disponível um **mundo plano já pré-configurado**, pronto para ser importado e usado em aula.
 
-> 📁 **Observação sobre os arquivos:** os nomes dos GIFs contêm acentos e espaços. Recomenda-se colocá-los em uma pasta `assets/` dentro do repositório e, se possível, renomeá-los sem acentos/espaços (ex.: `mundo-plano.gif`) para evitar problemas de exibição em alguns visualizadores do GitHub. Os caminhos usados abaixo assumem que os GIFs estão na mesma pasta deste arquivo `README.md`.
-
 ---
 
 ## Sumário
