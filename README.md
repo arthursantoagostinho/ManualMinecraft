@@ -62,7 +62,7 @@ Ainda na tela de criação de mundo, a aba **Sala de Aula** reúne as configura�
 
 Para aulas de construção, é comum **desativar criaturas** e **itens destrutivos**, mantendo o foco dos alunos na criação, sem riscos de explosões ou ataques.
 
-![Opções avançadas](./Opções_Avançadas.gif)
+![Opções avançadas](./assets/Opções_Avançadas.gif)
 
 ---
 
@@ -72,7 +72,7 @@ Complementando a aba **Sala de Aula**, há também a opção **Mostrar efeitos d
 
 Mais abaixo, em **Configurações do link de recurso**, é possível cadastrar uma **URL** e um **nome de botão**. Ao preencher esses campos, um novo botão aparece no menu de jogo *(dentro do mundo)*, permitindo abrir um site, ferramenta de avaliação ou qualquer outro recurso vinculado à aula diretamente de dentro do Minecraft.
 
-![Mais opções](./Mais_opções.gif)
+![Mais opções](./assets/Mais_opções.gif)
 
 ---
 
@@ -82,7 +82,7 @@ Na aba **Armazenamento da Nuvem**, é possível ativar a opção **Faça Backup 
 
 Essa configuração é especialmente recomendada quando o mesmo mundo será reaproveitado em várias aulas ou turmas.
 
-![Armazenamento em nuvem (OneDrive)](./OneDrive.gif)
+![Armazenamento em nuvem (OneDrive)](./assets/OneDrive.gif)
 
 ---
 
@@ -97,7 +97,7 @@ A aba **Multijogador** define como os alunos vão interagir entre si dentro do m
 - **Fogo amigo**: define se os jogadores podem causar dano uns nos outros.
 - **Indicadores do jogador**: define se os alunos aparecem como indicadores na barra localizadora, ajudando a encontrar os colegas dentro do mundo.
 
-![Opções do modo multijogador](./Opções_do_modo_Multijogador.gif)
+![Opções do modo multijogador](./assets/Opções_do_modo_Multijogador.gif)
 
 ---
 
@@ -107,7 +107,7 @@ A aba **Cheats** permite habilitar comandos de trapaça (como voo livre, modo de
 
 > ⚠️ Cheats concedem acesso a comandos poderosos. Recomenda-se manter essa permissão restrita ao professor (permissão **Operador**), evitando que alunos com permissão de Membro usem comandos de forma indevida.
 
-![Cheats de criação de mundo](./Cheats_de_criação_de_mundo.gif)
+![Cheats de criação de mundo](./assets/Cheats_de_criação_de_mundo.gif)
 
 ---
 
@@ -117,47 +117,43 @@ Por fim, na aba **Pacotes de recursos** (e **Pacotes de comportamento**), é pos
 
 Depois de revisar todas as configurações, basta clicar em **Criar**, no menu lateral esquerdo, para gerar o mundo com as opções escolhidas.
 
-![Pacotes de recursos e criação do mundo](./Pacotes_de_recurso_e_criação_do_mundo.gif)
+![Pacotes de recursos e criação do mundo](./assets/Pacotes_de_recurso_e_criação_do_mundo.gif)
 
 ---
 
 ## 8. Abrindo o inventário e colocando blocos
 
-> 🚧 **Seção em construção — GIF pendente de envio.**
->
-> Aqui será explicado como abrir o inventário criativo, selecionar blocos e itens, e como posicioná-los no mundo.
+Pressione a tecla **E** para abrir o inventário. No modo `criativo` o jogador consegue pegar qualquer bloco para construir (incluindo blocos da tabela periódica, e outros blocos que só existem para a versão Education do jogo).
+Utilizando o **botão direito do mouse** é possível colocar blocos, e com o **botão esquerdo do mouse** é possível quebrar blocos.
 
-<!-- GIF: abrindo-inventario-colocando-blocos.gif -->
+![Abrindo o inventário e colocando blocos](./assets/Abrindo_o_inventário_e_colocando_blocos.gif)
 
 ---
 
 ## 9. Dicas de controle e como voar
 
-> 🚧 **Seção em construção — GIF pendente de envio.**
->
-> Aqui serão explicados os controles básicos de movimentação, câmera, e como ativar/usar o voo no modo criativo (útil para construções em altura).
+Apertando a tecla **H** podemos ver um guia com dicas de teclas, para caso algum aluno esqueça.
+Apertando 2 vezes a tecla **espaço**, o jogador começa a voar, e apertando novamente ele para.
+Caso o jogador já esteja voando, ele pode utilizar a tecla **shift** para descer seu personagem.
 
-<!-- GIF: dicas-de-controle-como-voar.gif -->
+![Dicas de controle e como voar](./assets/Dicas_de_controle_e_como_voar.gif)
 
 ---
 
 ## 10. Abrindo o mundo para LAN (outros alunos conectarem)
 
-> 🚧 **Seção em construção — GIF pendente de envio.**
->
-> Aqui será explicado o passo a passo para o professor abrir o mundo em rede local (LAN), permitindo que os computadores dos alunos, conectados na mesma rede da escola, encontrem e entrem no mundo.
+Para abrir um mundo para outros jogadores se conectarem, o host (equipe de TI, ou professor) deverá apertar `ESC` para acessar o menu de configurações, clicar no ícone de vários rostinhos, e depois clicar em **COMEÇAR A SER ANFITRIÃO**, e em "confirmar".
+Após isso, o jogo criará um código para entrar neste mundo (que os alunos deverão colocar em suas máquinas) utilizando ícones do Minecraft.
 
-<!-- GIF: abrindo-mundo-para-lan.gif -->
+![Abrindo_mundo_para_LAN](./assets/Abrindo_mundo_para_LAN.gif)
 
 ---
 
 ## 11. Conectando no mundo (como aluno)
 
-> 🚧 **Seção em construção — GIF pendente de envio.**
->
-> Aqui será explicado o processo do lado do aluno: como localizar o mundo aberto em LAN pelo professor na lista de servidores/jogos e entrar nele.
+Para conectar no mundo criado pelo professor (ou equipe de TI), o aluno deverá clicar em **`Jogar -> Entrar no mundo`**. Após isso ele deverá inserir o código(de ícones) gerado na etapa anterior, e depois clicar em "confirmar" para entrar no mundo.
 
-<!-- GIF: conectando-no-mundo-como-aluno.gif -->
+![Conectando no mundo](./assets/Conectando_no_mundo.gif)
 
 ---
 
@@ -180,7 +176,7 @@ Para quem já está familiarizado com o funcionamento do Minecraft Education e s
 
 ### Checklist rápido para a equipe de TI
 
-- [ ] Confirmar que todos os computadores estão na mesma rede local antes de tentar o modo LAN.
+- [x] Confirmar que todos os computadores estão na mesma rede local antes de tentar o modo LAN.
 - [ ] Definir a permissão padrão dos alunos como **Membro** (não Operador), exceto para o professor.
 - [ ] Desativar criaturas e itens destrutivos em aulas de construção.
 - [ ] Ativar backup em nuvem (OneDrive) para mundos que serão reutilizados.
