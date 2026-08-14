@@ -6,6 +6,8 @@ Esta página reúne os mundos prontos para uso em aula. Para adicionar um novo m
 
 ## Mundo da Escola
 
+![Mundo da Escola](../assets/Mundo-da-Escola.png)
+
 Breve descrição do mundo: para que serve, tipo de terreno, e se tem alguma configuração especial (cheats, multijogador, etc).
 
 [![Baixar Mundo](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Baixar-Mundo_da_Escola-2ea44f?style=for-the-badge)](https://github.com/arthursantoagostinho/ManualMinecraft/raw/refs/heads/main/worlds/Mundo%20da%20Escola.mcworld)
@@ -16,6 +18,8 @@ Breve descrição do mundo: para que serve, tipo de terreno, e se tem alguma con
 Modelo para adicionar um novo mundo — copie o bloco abaixo, preencha e cole acima desta linha:
 
 ## Nome do Mundo
+
+![Nome do Mundo](../assets/Nome-do-Mundo.png)
 
 Breve descrição do mundo.
 
