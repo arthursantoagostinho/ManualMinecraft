@@ -177,7 +177,7 @@ Para quem já está familiarizado com o funcionamento do Minecraft Education e s
 
 ### Outros mundos pré-configurados disponíveis para download (Opcional)
 
-Lista de mundos pré-configurados para download ⬇️
+[Lista de mundos pré-configurados para download ⬇️](https://github.com/arthursantoagostinho/ManualMinecraft/blob/main/worlds/worldlist.md)
 
 ---
 
