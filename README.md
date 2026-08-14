@@ -173,7 +173,7 @@ Para quem já está familiarizado com o funcionamento do Minecraft Education e s
 
 ### Checklist rápido para a equipe de TI
 
-- [x] Confirmar que todos os computadores estão na mesma rede local antes de tentar o modo LAN.
+- [ ] Confirmar que todos os computadores estão na mesma rede local antes de tentar o modo LAN.
 - [ ] Definir a permissão padrão dos alunos como **Membro** (não Operador), exceto para o professor.
 - [ ] Desativar criaturas e itens destrutivos em aulas de construção.
 - [ ] Ativar backup em nuvem (OneDrive) para mundos que serão reutilizados.
