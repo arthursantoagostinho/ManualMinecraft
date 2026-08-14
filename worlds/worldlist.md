@@ -6,11 +6,16 @@ Esta página reúne os mundos prontos para uso em aula. Para adicionar um novo m
 
 ## Mundo da Escola
 
-![Mundo da Escola](../assets/Mundo_Escola_1.png)
-![Mundo da Escola](../assets/Mundo_Escola_2.png)
-![Mundo da Escola](../assets/Mundo_Escola_3.png)
-![Mundo da Escola](../assets/Mundo_Escola_4.png)
-![Mundo da Escola](../assets/Mundo_Escola_5.png)
+<table>
+  <tr>
+    <td><img src="../assets/Mundo_Escola_2.png" width="200"/></td>
+    <td><img src="../assets/Mundo_Escola_3.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/Mundo_Escola_4.png" width="200"/></td>
+    <td><img src="../assets/Mundo_Escola_5.png" width="200"/></td>
+  </tr>
+</table>
 
 Breve descrição do mundo: para que serve, tipo de terreno, e se tem alguma configuração especial (cheats, multijogador, etc).
 
