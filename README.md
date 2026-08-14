@@ -18,7 +18,7 @@ Cada seção abaixo é ilustrada com um GIF demonstrativo. Se você já conhece 
 8. [Abrindo o inventário e colocando blocos](#8-abrindo-o-inventário-e-colocando-blocos)
 9. [Dicas de controle e como voar](#9-dicas-de-controle-e-como-voar)
 
----
+--
 
 ## Pule as etapas anteriores, se quiser apenas abrir o mundo para outros conectarem e baixar o mundo pré-configurado
 
