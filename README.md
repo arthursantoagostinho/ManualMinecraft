@@ -159,9 +159,7 @@ Para conectar no mundo criado pelo professor (ou equipe de TI), o aluno deverá 
 
 Para quem já está familiarizado com o funcionamento do Minecraft Education e só precisa de um mundo pronto para uso em aula, disponibilizamos abaixo um **mundo plano já configurado** no modo **criativo**, ideal para atividades de construção.
 
-> 📎 **Anexe aqui o arquivo do mundo** (formato `.mcworld`) e o link de download, por exemplo:
->
-> `[⬇️ Baixar mundo plano pré-configurado](./mundos/mundo-plano-criativo.mcworld)`
+[⬇️ Baixar mundo plano pré-configurado](./Mundo-Plano.mcworld)
 
 **Como importar o mundo baixado no Minecraft Education:**
 
