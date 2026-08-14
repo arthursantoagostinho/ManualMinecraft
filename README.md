@@ -17,6 +17,11 @@ Cada seção abaixo é ilustrada com um GIF demonstrativo. Se você já conhece 
 7. [Pacotes de recursos e finalização da criação](#7-pacotes-de-recursos-e-finalização-da-criação)
 8. [Abrindo o inventário e colocando blocos](#8-abrindo-o-inventário-e-colocando-blocos)
 9. [Dicas de controle e como voar](#9-dicas-de-controle-e-como-voar)
+
+---
+
+## Pule as etapas anteriores, se quiser apenas abrir o mundo para outros conectarem e baixar o mundo pré-configurado
+
 10. [Abrindo o mundo para LAN (outros alunos conectarem)](#10-abrindo-o-mundo-para-lan-outros-alunos-conectarem)
 11. [Conectando no mundo (como aluno)](#11-conectando-no-mundo-como-aluno)
 12. [Mundo pré-configurado para download](#mundo-pré-configurado-para-download)
@@ -165,9 +170,16 @@ Para quem já está familiarizado com o funcionamento do Minecraft Education e s
 **Como importar o mundo baixado no Minecraft Education:**
 
 1. Baixe o arquivo `.mcworld` disponibilizado acima.
-2. Dê duplo clique no arquivo baixado (ou abra-o pelo Minecraft Education).
-3. O jogo será aberto automaticamente e importará o mundo para a lista de mundos salvos.
-4. Na tela inicial, clique em **Jogar** e selecione o mundo importado na lista.
+2. Abra o Minecraft Education.
+3. Clique em `Jogar -> Importar`.
+4. Clique em **Meus mundos** e selecione o mundo importado na lista para jogar.
+
+
+---
+
+### Outros mundos pré-configurados disponíveis para download (Opcional)
+
+Lista de mundos pré-configurados para download ⬇️
 
 ---
 
